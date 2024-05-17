@@ -2,6 +2,11 @@
 
 This repository contains a Power BI dashboard that provides comprehensive insights into the sales and operational performance of AdventureWorks, a fictitious manufacturing company. The dashboard includes various visualizations and metrics to help analyze sales data, identify trends, and make informed business decisions.
 
+
+
+![Dashboard Screenshot](AdventureWorksImages/Dashboard.png)
+
+
 ## Overview
 
 The AdventureWorks Dashboard includes the following key features:
